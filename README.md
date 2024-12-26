@@ -44,8 +44,8 @@ I’m a curious person always seeking to learn something new. I’m deeply inter
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexbeldam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbeldam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexbeldam&theme=radical&show_icons=true&rank_icon=github" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbeldam&layout=compact&theme=radical&langs_count=8" height="150" alt="languages graph"  />
 </div>
 
 ###
