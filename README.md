@@ -6,8 +6,9 @@
 
 ###
 
-- <p align="left">🏫 Specialization: Computer Technician @ CEFET-MG</p>
-- <p align="left">🌱 Skills: Quick learning, team work and communication</p>
+- <p align="left">👨‍💻 Computer Technician graduate from CEFET-MG</p>
+- <p align="left">⚙️ Bachelor's student in Control and Automation Engineering @ UFMG</p>
+- <p align="left">🌱 Skills: Quick learning, team work, and proactivity</p>
 - <p align="left">📧 Contact me: alexbeldam@gmail.com</p>
 
 I’m a curious person always seeking to learn something new. I’m deeply interested in machine learning and neural networks, exploring how they can mimic human intelligence and adapt over time. I’m also fascinated by game development, particularly the design of mechanics and the creation of immersive worlds. While I’m still in the process of researching and learning, I’m eager to explore how AI and machine learning can eventually shape the future of interactive experiences in gaming.
