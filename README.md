@@ -7,7 +7,7 @@
 ###
 
 - <p align="left">👨‍💻 Computer Technician graduate from CEFET-MG</p>
-- <p align="left">⚙️ Bachelor's student in Control and Automation Engineering @ UFMG</p>
+- <p align="left">⚙️ Bachelor's student in Computer Science @ UFMG</p>
 - <p align="left">🌱 Skills: Quick learning, team work, and proactivity</p>
 - <p align="left">📧 Contact me: alexbeldam@gmail.com</p>
 
