@@ -23,7 +23,7 @@ I’m a curious person always seeking to learn something new. I’m deeply inter
   <a href="https://www.linkedin.com/in/alexbeldam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/alexbeldam" target="_blank">
+  <a href="https://discord.com/users/alexbeldam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/alexbeldam" target="_blank">
@@ -38,8 +38,8 @@ I’m a curious person always seeking to learn something new. I’m deeply inter
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexbeldam&theme=radical&show_icons=true&rank_icon=github" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbeldam&layout=compact&theme=radical&langs_count=8" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=alexbeldam&theme=radical&show_icons=true&rank_icon=github" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alexbeldam&layout=compact&theme=radical&langs_count=8" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -83,7 +83,7 @@ I’m a curious person always seeking to learn something new. I’m deeply inter
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
 </div>
