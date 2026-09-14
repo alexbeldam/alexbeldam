@@ -1,117 +1,60 @@
-<h1 align="left">Hey there👋I'm Alex</h1>
+<h1 align="left">Hey there, I'm Alex 👋</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
+
+- 🎓 **B.Sc. student in Computer Science** @ Universidade Federal de Minas Gerais (UFMG)
+- 👨‍💻 **Technical Diploma in Informatics** from CEFET-MG
+- 🔬 **Undergraduate Researcher** with prior experience in data processing pipelines and scientific workflows
+- 🧠 **Focus Areas:** Machine Learning, Computational Creativity, Game AI, and Interactive Systems
+
+I am driven by how artificial intelligence can shape interactive experiences and procedural generation in games. My background combines low-level systems programming and software engineering discipline with applied data exploration. Currently looking to expand into Generative AI, symbolic processing, and intelligent game design.
 
 ###
 
-- <p align="left">👨‍💻 Computer Technician graduate from CEFET-MG</p>
-- <p align="left">⚙️ Bachelor's student in Computer Science @ UFMG</p>
-- <p align="left">🌱 Skills: Quick learning, team work, and proactivity</p>
-- <p align="left">📧 Contact me: alexbeldam@gmail.com</p>
-
-I’m a curious person always seeking to learn something new. I’m deeply interested in machine learning and neural networks, exploring how they can mimic human intelligence and adapt over time. I’m also fascinated by game development, particularly the design of mechanics and the creation of immersive worlds. While I’m still in the process of researching and learning, I’m eager to explore how AI and machine learning can eventually shape the future of interactive experiences in gaming.
-
-###
-
-<h2 align="left">Socials</h2>
-
-###
+<h2 align="left">Connect</h2>
 
 <div align="left">
+  <a href="mailto:alexbeldam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alexbeldam%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/alexbeldam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/alexbeldam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/alexbeldam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
 </div>
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Technical Tooling</h2>
+
+**Languages**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css" height="38" alt="Languages" />
+</div>
+
+<br/>
+
+**Environments & Frameworks**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,docker,postgres,mongodb" height="38" alt="Tools" />
+</div>
 
 ###
+
+<h2 align="left">Activity & Stats</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=alexbeldam&theme=radical&show_icons=true&rank_icon=github" height="150" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alexbeldam&layout=compact&theme=radical&langs_count=8" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=alexbeldam&theme=radical&show_icons=true&rank_icon=github" height="150" alt="Stats Graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alexbeldam&layout=compact&theme=radical&langs_count=8" height="150" alt="Languages Graph" />
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/n08cy3w0247fr6mkjp5d4yp2k">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n08cy3w0247fr6mkjp5d4yp2k&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/alexbeldam/alexbeldam/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/alexbeldam/alexbeldam/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">I code in</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">I work with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-</div>
-
-###
-
-<h2 align="left">Other technologies</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-</div>
-
-###
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer"/>
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=100&section=footer" />
